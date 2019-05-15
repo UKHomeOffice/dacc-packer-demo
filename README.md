@@ -1,4 +1,4 @@
-# A dacc packer demo.
+# dacc packer demo.
 
 Simple proof of concept packer image that uses a `ubuntu` base image to host a `nginx` webservice with some `ansible` magic.
 
